@@ -1,6 +1,6 @@
 <a href="/lang/POLISH.md"> <p align="right"> <img src="https://imgur.com/ExlsHUM.png" width=32 height=32> </p> </a>
 <p align="center"> <img src="https://imgur.com/Q2p30xQ.png"> </p>
-<h5><p align="center"> *Check the other one if this isn't working* </p></h5>
+<h5><p align="center"> *Creditted some random so they take the blame xd* </p></h5>
 
 ----------------------
 STATUS: WORKING!
