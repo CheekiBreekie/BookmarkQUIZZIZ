@@ -17,7 +17,7 @@ STATUS: WORKING!
  
  
 > **How to use**:
-  * Create new bookmark with destination URL set as first command
+  * Create new bookmark with destination URL set as the command below (https://imgur.com/yWn5eAT)
   * Press this bookmark whenever you are in game
   
 __________________________________________________________________________________________ 
