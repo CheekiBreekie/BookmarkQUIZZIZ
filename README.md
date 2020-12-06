@@ -3,7 +3,7 @@
 <h5><p align="center"> *Creditted some random so they take the blame xd* </p></h5>
 
 ----------------------
-STATUS: NOT WORKING!
+STATUS: WORKING!
 ----------------------
 
  > **Features:**
@@ -18,7 +18,7 @@ STATUS: NOT WORKING!
  
 > **How to use**:
   * Create new bookmark with destination URL set as the command below (https://imgur.com/yWn5eAT)
-  * Press this bookmark whenever you are in game
+  * Press this bookmark whenever you are in game, then just put the game pin and do the captcha
   
 __________________________________________________________________________________________ 
 > **Commands**:
